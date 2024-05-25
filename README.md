@@ -1,4 +1,4 @@
-# java-
+# java StockParser
 使用json爬證交所的資料並做簡單的分析
 
 外部API : Json
