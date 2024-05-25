@@ -2,6 +2,7 @@
 使用json爬證交所的資料並做簡單的分析
 
 外部API : Json
+
 Note:建議把Json.jar和code放在同一份資料夾，並在終端及執行時輸入：
 
 編譯-> javac -cp ".:./json.jar" StockParser.java 
